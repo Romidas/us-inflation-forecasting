@@ -143,12 +143,14 @@ Chronos-2 requires internet access to download its pretrained model weights.
 - Chronos-2 pretraining-data overlap with publicly available macroeconomic data cannot be ruled out.
 - Residual diagnostics indicate remaining autocorrelation and departures from normality and constant variance in the initial SARIMAX fit.
 
-## 11. References
+## References
 
-- Atkeson, A., & Ohanian, L. E. (2001). Are Phillips curves useful for forecasting inflation? *Federal Reserve Bank of Minneapolis Quarterly Review*.
-- Stock, J. H., & Watson, M. W. (2007). Why has U.S. inflation become harder to forecast? *Journal of Money, Credit and Banking*.
-- Diebold, F. X., & Mariano, R. S. (1995). Comparing predictive accuracy. *Journal of Business & Economic Statistics*.
-- Ansari, A. F., et al. (2025). Chronos-2: From univariate to universal forecasting.
-- Hyndman, R. J., & Athanasopoulos, G. *Forecasting: Principles and Practice*.
+1. Atkeson, A., & Ohanian, L. E. (2001). Are Phillips curves useful for forecasting inflation? *Federal Reserve Bank of Minneapolis Quarterly Review, 25*(1), 2–11. https://www.minneapolisfed.org/research/quarterly-review/are-phillips-curves-useful-for-forecasting-inflation
 
-**Data source:** [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)
+2. Stock, J. H., & Watson, M. W. (2007). Why has U.S. inflation become harder to forecast? *Journal of Money, Credit and Banking, 39*(s1), 3–33. https://doi.org/10.1111/j.1538-4616.2007.00014.x
+
+3. Diebold, F. X., & Mariano, R. S. (1995). Comparing predictive accuracy. *Journal of Business & Economic Statistics, 13*(3), 253–263. https://doi.org/10.1080/07350015.1995.10524599
+
+4. Ansari, A. F., Shchur, O., Küken, J., Auer, A., Han, B., Mercado, P., et al. (2025). *Chronos-2: From univariate to universal forecasting*. arXiv:2510.15821. https://arxiv.org/abs/2510.15821
+
+5. Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: Principles and Practice* (3rd ed.). OTexts. https://otexts.com/fpp3/
